@@ -1,0 +1,4 @@
+config BR2_PACKAGE_MCYCLER
+	bool "Package mcycler"
+	help
+	  This is a custom program. Prints current mcycle values
