@@ -10,7 +10,7 @@ buildroot/rootfs.tar
 buildroot/rv32.dtb
 
 # Ignore src+env directories
-src/
+# src/
 env/
 
 # Build files
